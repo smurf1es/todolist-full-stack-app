@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Full stack todolist app built with react and express",
   "main": "server.js",
+  "scripts": {
+    "start": "webpack"
+  },
   "author": "Pahuger Puruhita Baiq",
   "license": "MIT",
   "devDependencies": {
